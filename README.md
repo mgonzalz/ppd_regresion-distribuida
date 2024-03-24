@@ -3,8 +3,9 @@
 ## Repositorio.
 - Link: https://github.com/mgonzalz/ppd_regresion-distribuida.git
 - Usuario: @mgonzalz
+
 El repositorio contiene la resolución del ejercicio en un Jupyter Notebook y una única carpeta que alberga el dataset correspondiente.
-## Instrucciones.
+## Enunciado.
 Mediante las técnicas de programación paralela y distribuida que ofrece PySpark, debemos de determinar el índice de Rendimiento Académico (Performance Index) que tienen los estudiantes atendiendo a una serie de variables.
 
 El dataset del que partimos tiene las siguientes variables independientes:
